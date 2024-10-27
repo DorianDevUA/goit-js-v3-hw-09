@@ -18,5 +18,6 @@
 @import url('./footer.css');
 
 /* Pages style */
+@import url('./index.css');
 @import url('./1-gallery.css');
 @import url('./2-form.css');
